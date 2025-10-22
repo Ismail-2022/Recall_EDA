@@ -14,10 +14,8 @@ This repository uses a public Kaggle dataset of student scores/grades to build m
 - Key steps performed
 - Installation
 - How to run
-- Notebooks / scripts
 - Modeling & evaluation
-- Results (example)
-- Reproducing experiments
+- Results
 - Tips & next steps
 - Contributing
 - License
