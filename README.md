@@ -1,4 +1,4 @@
-# Recell_EDA
+# Recall_EDA
 
 A compact learning project to recall and practice key data science concepts: handling missing values, DataFrame manipulation, Exploratory Data Analysis (EDA), preprocessing, and building regression machine learning models.
 
