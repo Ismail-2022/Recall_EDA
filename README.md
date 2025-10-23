@@ -133,11 +133,6 @@ This repository is mainly a personal recall project. Contributions, suggestions,
 
 ---
 
-## License
-Specify a license if you wish (e.g., MIT). Add `LICENSE` file to the repository.
-
----
-
 ## Contact
 Author: Ismail (Ismail-2022)
 Repository: https://github.com/Ismail-2022/Recall_EDA
